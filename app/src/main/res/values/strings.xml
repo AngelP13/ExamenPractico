@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListasSimples</string>
+    <string name="txtpregunta">Planeta Mercurio</string>
+    <string name="spinner_1">objetos</string>
+    <string name="txtRespuesta">Respuesta</string>
+    <string name="btn_enviar">Responder</string>
+
+</resources>
